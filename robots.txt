@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://aaronjrod.github.io/sitemap-index.xml
-Host: https://aaronjrod.github.io
